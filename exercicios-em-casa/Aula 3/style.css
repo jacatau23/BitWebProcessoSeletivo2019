@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+    background-image:url(Wallpaper.jpg);
+    background-attachment:fixed;
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+
+p{
+    font-size: 24px;
+    text-align: justify;
+    text-indent: 50px;
+    color:white;
+}
+.center{
+        margin: auto;
+        width: 60%;
+        border: 3px solid #73AD21;
+        padding: 10px;
+}
+#button-go, #button-back {border: solid 1px black;}
+
+figure.Demon-img{
+    border: 8px solid black;
+}
+
+figure.Demon-img img{
+    width: auto;
+    height: auto;
+}
+
+figure.JoJo-img{
+    border: 8px solid white;
+    box-shadow:1px 1px 4px black;
+}
+
+figure.JoJo-img img{
+    width: auto;
+    height: auto;
+}
+
+.music{
+       
+}
+}
+    
