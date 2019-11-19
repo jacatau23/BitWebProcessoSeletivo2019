@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body{
+    background-image:url(maxresdefault.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+figure{
+    padding: 5px 5px 5px 5px;
+    margin: 10px 5px 20px 5px;
+    display: inline-block;
+}
+
+figure img{
+    height: 125px;
+    width: 125px;
+    border: 3px solid burlywood;
+}
+
+h2{
+    color: brown
+}
+
+#Album1{
+    position: relative;
+    left: 850px;
+    top: 200px;
+}
+
+#Album2{
+    position: relative;
+    left: 695px;
+    top: 370px;
+}
