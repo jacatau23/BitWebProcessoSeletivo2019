@@ -23,13 +23,13 @@ h2{
     color: brown
 }
 
-#Album1{
+#Album1,#fg1{
     position: relative;
     left: 850px;
     top: 200px;
 }
 
-#Album2{
+#Album2,#fg2{
     position: relative;
     left: 695px;
     top: 370px;
